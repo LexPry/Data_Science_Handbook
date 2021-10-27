@@ -3,11 +3,8 @@ import array
 import arrays
 L = lists(range(10))
 L
-L = list(range(10))
-L
 type(L[0])
 L2 = [str(c) for c in L}
-L2 = [str(c) for c in L]
 L2
 type(L2[0])
 L3 = [True, '2', 3.0,4]
