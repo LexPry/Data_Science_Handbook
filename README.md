@@ -1,2 +1,2 @@
-Taking notes with ipython as I work my way through the 
-data science python handbook
+Taking Data Science notes on visual studio code with Jupyter
+notebook extension. 
